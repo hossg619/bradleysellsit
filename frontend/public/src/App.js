@@ -1,11 +1,4 @@
-import React from "react";
-
 function App() {
-  return (
-    <div className="App">
-      <h1>Welcome to Bradley Sells It!</h1>
-    </div>
-  );
+  return <h1>Hello from Bradley Sells It!</h1>;
 }
-
 export default App;
